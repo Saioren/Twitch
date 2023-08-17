@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 450" style="enable-background:new 0 0 600 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#62509C;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<polygon class="st0" points="210.6,47.3 147,110.9 147,339.9 223.4,339.9 223.4,403.5 287,339.9 337.9,339.9 452.3,225.4 
+		452.3,47.3 	">
+	
+		<animate  accumulate="none" additive="replace" attributeName="points" begin="indefinite" calcMode="spline" dur="150ms" fill="#9147FF" from="13 8 8 13 8 31 14 31 14 36 19 31 23 31 32 22 32 8" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="16 5 8 13 8 31 14 31 14 36 19 31 23 31 35 19 35 5">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="points" begin="indefinite" calcMode="spline" dur="250ms" fill="#9147FF" from="16 5 8 13 8 31 14 31 14 36 19 31 23 31 35 19 35 5" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="13 8 8 13 8 31 14 31 14 36 19 31 23 31 32 22 32 8">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="points" begin="indefinite" calcMode="spline" dur="50ms" fill="#9147FF" from="16 5 8 13 8 31 14 31 14 36 19 31 23 31 35 19 35 5" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="13 8 8 13 8 31 14 31 14 36 19 31 23 31 32 22 32 8">
+		</animate>
+	
+		<animate  accumulate="none" additive="replace" attributeName="points" begin="indefinite" calcMode="spline" dur="75ms" fill="#9147FF" from="13 8 8 13 8 31 14 31 14 36 19 31 23 31 32 22 32 8" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="16 5 8 13 8 31 14 31 14 36 19 31 23 31 35 19 35 5">
+		</animate>
+	</polygon>
+	<polygon class="st1" points="376,263.5 426.9,212.7 426.9,72.7 223.4,72.7 223.4,263.5 274.2,263.5 274.2,314.4 325.1,263.5 	">
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="150ms" fill="#FFFFFF" from="0 0" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="3 -3" type="translate">
+		</animateTransform>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="250ms" fill="#FFFFFF" from="3 -3" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="0 0" type="translate">
+		</animateTransform>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="50ms" fill="#FFFFFF" from="3 -3" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="0 0" type="translate">
+		</animateTransform>
+	
+		<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="75ms" fill="#FFFFFF" from="0 0" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="3 -3" type="translate">
+		</animateTransform>
+	</polygon>
+	<g>
+		<path class="st0" d="M299.7,123.6h25.4v76.3h-25.4V123.6z M388.7,123.6v76.3h-25.4v-76.3H388.7z		">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="150ms" fill="#9147FF" from="0 0" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="3 -3" type="translate">
+				</animateTransform>
+			
+				<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="250ms" fill="#9147FF" from="3 -3" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="0 0" type="translate">
+				</animateTransform>
+			
+				<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="50ms" fill="#9147FF" from="3 -3" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="0 0" type="translate">
+				</animateTransform>
+			
+				<animateTransform  accumulate="none" additive="replace" attributeName="transform" begin="indefinite" calcMode="spline" dur="75ms" fill="#9147FF" from="0 0" keySplines="0.25 0.1 0.25 1" keyTimes="0; 1" restart="always" to="3 -3" type="translate">
+				</animateTransform>
+		</path>
+	</g>
+</g>
+</svg>
